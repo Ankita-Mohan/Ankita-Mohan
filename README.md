@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋....</p>I'm ANKITA </h1>
 <h2 align="center">A passionate beginner in developing era from India</h2> </p>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/264642...")
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/264642...">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankita-mohan" alt="ankita-mohan" /></a> </p>
 
