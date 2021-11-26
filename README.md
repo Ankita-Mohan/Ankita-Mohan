@@ -3,7 +3,6 @@
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankita-mohan" alt="ankita-mohan" /></a> </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/264642...">
 - 🏫 I'm pursuing BTECH from **KALINGA INSTITUTE OF INDUSTRIAL TECHNOLOGY**
 
 - ⚡ Fun fact about me **I am self made Artist**
