@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋,</p> I am Ankita Mohan</h1>
-<h2 align="center">A passionate beginner in developing era from India✨✨</h2><br>
+<h2 align="center">A passionate hustler in developing era from India✨✨</h2><br>
 
 <p align="left"> <img
         src="https://komarev.com/ghpvc/?username=ankita-mohan&label=Profile%20views&color=0e75b6&style=flat"
@@ -16,7 +16,7 @@
 
 - 🤝 I'm passionate about **Developing and Content writing**
 
-- 📫 How to reach me **officialankita112@gmail.com**
+- 📫 How to reach me **ankitamohan1267@gmail.com**
 <br>
 <p><img align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=ankita-mohan&show_icons=true&locale=en&layout=compact"
