@@ -1,5 +1,5 @@
-<h1 align="center">Hello 👋,</p> I am Ankita Mohan</h1>
-<h2 align="center">A passionate hustler in developing era from India✨✨</h2><br>
+<h1 align="center">Hello ,</p> I am Ankita Mohan</h1>
+<h2 align="center">A passionate coder in developing era✨✨</h2><br>
 
 <p align="left"> <img
         src="https://komarev.com/ghpvc/?username=ankita-mohan&label=Profile%20views&color=0e75b6&style=flat"
@@ -12,7 +12,7 @@
 
 - 🏫 I'm pursuing BTECH from **KALINGA INSTITUTE OF INDUSTRIAL TECHNOLOGY**
 
-- 🌱 I'm currently learning **Web development- bootstrap and react**
+- 🌱 I'm currently learning **Machine Learning**
 
 - 🤝 I'm passionate about **Developing and Content writing**
 
